@@ -5,7 +5,7 @@ In this notebook you could find a prediction model implementation. The data used
 
 In this notebook you will find:
 
-Pandas inplementations: creating features, substracting columns, concatenate dataframes, filter dataframes, groupby.
-Stastmodels: implement a linear regressions
-Spicy: Minimazing
+<ul>Pandas inplementations: creating features, substracting columns, concatenate dataframes, filter dataframes, groupby.</ul>
+<ul>Stastmodels: implement a linear regressions</ul>
+<ul>Spicy: Minimazing</ul>
 Welcome
