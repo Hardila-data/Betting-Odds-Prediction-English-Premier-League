@@ -8,4 +8,5 @@ In this notebook you will find:
 <ul>Pandas inplementations: creating features, substracting columns, concatenate dataframes, filter dataframes, groupby.</ul>
 <ul>Stastmodels: implement a linear regressions</ul>
 <ul>Spicy: Minimazing</ul>
-Welcome
+
+<p>Welcome!!</p>
